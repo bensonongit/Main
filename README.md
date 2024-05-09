@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitmrben
+- 👋 Hi, I’m Benson Davis
 - 👀 I’m interested in network engineering, writing notes and photography
 - 🌱 I’m currently learning Cloud Networking, Network Security, ACI
 - 📫 How to reach me https://www.linkedin.com/in/bensondavis/
